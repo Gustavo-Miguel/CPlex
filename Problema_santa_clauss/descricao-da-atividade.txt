@@ -1,0 +1,14 @@
+Restrições básicas:
+
+1) cada criança deve receber apenas 1 presente;
+2) cada presente deve ser distribuido 10 vezes;
+3) as 10 primeiras criancas são g?meas (de 2 em 2, um par de gêmeos).
+4) da 11a até a 22a são trigêmeas (de 3 em 3, um trio de trigêmeos).
+
+Gêmeos e trigêmeos devem receber o mesmo presente...
+
+Parte 1: não considerar gêmeos e trig?meos.
+Parte 2: considerar apenas g?meos.
+parte 3: considerar gêmeos e trig?meos.
+
+A entrega do código será acompanhada do relatório...
